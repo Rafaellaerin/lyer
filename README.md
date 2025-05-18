@@ -1,6 +1,3 @@
-Here’s the complete **`README.md`** file in English, focusing only on the necessary instructions to set up and run your bot.
-
----
 
 ```markdown
 # **Lyer - Discord Bot**
